@@ -1,0 +1,111 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-weight: 600;
+    font-size: 70px;
+}
+h3{
+    font-family:'Redressed', cursive;;
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+.upper-part{
+    display: flex;
+}
+.half-width{
+    padding-left: 10px;
+    margin-left: 10px;  
+}
+#gradient{
+    border-left: 5px solid red;
+}
+.half-width img{
+    width: 70%;
+}
+button{
+    padding: 10px 10px;
+    border-radius: 10px;
+    background-color: orangered;
+    color: antiquewhite;
+font-weight:900;
+margin-bottom: 20px;
+}
+.half-width2{
+    display: flex;
+    margin: 20px;
+}
+.half-width-img img{
+    width: 50%;
+    margin-left: -20px;
+}
+.blue{
+    background-color: lightcyan;
+    margin: 10px;
+    border-radius: 15px;
+    padding: 20px;
+}
+.babypink{
+    background-color: mistyrose;
+    margin: 10px;
+    border-radius: 15px;
+    padding: 20px;
+}
+.peach{
+    background-color: bisque;
+    margin: 10px;
+    border-radius: 15px;
+    padding: 20px;
+}
+h2{
+    font-size: 40px;
+}
+.middle-part{
+    display: flex;
+    padding: 10%;
+   
+}
+.half-width3 img{
+    width: 80%;
+}
+/* .middle-part{
+    background-image: url(mission-2022-main/mission-2022-main/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+} */
+.lowermiddle{
+    display: flex;
+    padding-bottom: 20px;
+     margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+}
+.half-width4{
+    padding-left: 10px;
+    margin-left: 10px;  
+}
+.half-width4 img{
+    width: 70%;
+}
+.last-part{
+    text-align: center;
+    justify-content: center;
+}
+.last-part-bg{
+    background-color: red;
+    color: whitesmoke;
+    padding: 20px;
+    border-radius: 50px;
+}
+.footer{
+    text-align: center;
+    justify-content: center;
+    background-color: #0B0D17;
+    color: white;
+    padding: 50px;
+    margin-top: 20px;
+}
+#red{
+    color: red;
+}
